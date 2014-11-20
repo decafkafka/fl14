@@ -1,0 +1,5 @@
+<?php require 'includes/config.php';?>
+<?php include 'includes/header.php';?>
+<h1><?=$pageH1?></h1>
+<p>Cras tincidunt eros ligula, sit amet viverra quam ultricies in. Donec volutpat laoreet lectus sed consequat. Quisque justo justo, maximus eu ornare eu, dignissim in magna. Nunc facilisis feugiat eros porttitor vulputate. Proin efficitur, diam non iaculis congue, sapien metus lobortis massa, nec malesuada sapien nulla nec nunc. Phasellus sagittis gravida dolor, ut pellentesque eros interdum eu. Etiam cursus luctus magna eu pulvinar. Fusce placerat magna sit amet magna accumsan, vitae volutpat dolor viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi in ligula in nunc efficitur convallis. Suspendisse scelerisque, diam et interdum scelerisque, libero magna lacinia purus, eu pulvinar ex neque sit amet lorem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras vestibulum arcu id libero lobortis sodales. Pellentesque ornare, dolor sed posuere porta, lorem justo ornare sapien, vel laoreet orci leo ac ipsum. Suspendisse potenti. </p>
+<?php include 'includes/footer.php';?>
